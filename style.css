@@ -1,0 +1,24 @@
+a {
+    display: inline-block; 
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 3px;
+
+
+}
+.p {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 67px;
+    
+}
+span{
+    border: 1px solid black;
+}
+footer{
+    border: 2px solid black;
+    display: block;
+    padding: 30px;
+    
+}
